@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-piel-contra-la-mia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu piel contra la mía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-contra-la-mia/) |
+| **Get License** | [Official Music Licensing for Tu piel contra la mía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-contra-la-mia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `77407be306e8ef6e62024027466f9263725ea964a8b90cd9964b28551933505e` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

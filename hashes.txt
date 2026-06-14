@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu piel contra la mía
+
+This log tracks the cryptographic history and versioning for the song **Tu piel contra la mía** (tu-piel-contra-la-mia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T20:56:51.532467 | `v1` | `77407be306e8ef6e62024027466f9263725ea964a8b90cd9964b28551933505e` | `82078c1bbf77b99f15af617d1a0b8d8b9c7121f758beb68e4da80fb20c9d188c` | `2026-06-14_tu-piel-contra-la-mia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
