@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-piel-contra-la-mia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu piel contra la mía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-contra-la-mia/) |
+| **Get License** | [Request Licensing for Tu piel contra la mía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-contra-la-mia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche oscura en la ciudad, tu piel contra la mía,
+> Un deseo que me quema, la tensión no se enfría.
+> Dime qué es lo que tú quieres, no me dejes esperando,
+> Con ese estilo criminal, mi mente estás hackeando.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
